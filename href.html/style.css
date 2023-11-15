@@ -1,0 +1,11 @@
+h1{
+border: 2px dashed red;
+padding: 70px;
+background-color: blue;
+margin:50px;
+text-decoration: underline;
+text-align: justify;
+}
+.con1{
+    border: 2px dashed red;
+}
